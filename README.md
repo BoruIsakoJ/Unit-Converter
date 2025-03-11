@@ -14,4 +14,4 @@ This is a simple web application for converting units between metric and imperia
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/unit-conversion.git
+   git clone https://github.com/BoruIsakoJ/Unit-Converter.git
